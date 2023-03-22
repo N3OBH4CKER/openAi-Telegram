@@ -17,11 +17,11 @@ unsend - Unsend message
 
 - 3. Create <a href="openai.com">openAi</a> account for api key.
 
-- 4. Now create an <a href="replit.co">replit</a> account and clone repo using the command below ````git clone https://github.com/AKXVAU/openAi-Tg && mv openAi-Tg/* ./ ```` 
+- 4. Now create an <a href="replit.co">replit</a> account and clone repo using the command below ````git clone https://github.com/N3OBH4CKER/openAi-Telegram && mv openAi-Tg/* ./ ```` 
 
 - 5. Open config.json file and paste your bot and openAi token. 
 
-- 6. open (openAi-Tg/.replit) file copy full file. Then paste it to the .replit file on the home directory. 
+- 6. open (openAi-Telegram/.replit) file copy full file. Then paste it to the .replit file on the home directory. 
 
 - 7. Open replit console then type `npm i` then press enter.
 
@@ -37,7 +37,7 @@ unsend - Unsend message
 
 <div align="center">
 
-<a href="https://facebook.com/N3OBH4CKER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="N3OBH4CKER" height="30" width="40" /></a>
+<a href="https://facebook.com/100074591152479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="N3OBH4CKER" height="30" width="40" /></a>
 
 <a href="https://instagram.com/N3OBH4CKER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="N3OBH4CKER" height="30" width="40" /></a>
 
